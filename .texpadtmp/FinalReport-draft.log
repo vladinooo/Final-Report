@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  17 APR 2012 14:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  25 APR 2012 15:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -158,15 +158,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[1]
+[2]
 (/Users/vladh/Documents/02_Documents/3rd_year/Final_year_project/FinalReport/.t
-expadtmp/FinalReport-draft.toc [1
+expadtmp/FinalReport-draft.toc [3
 
 ])
 \tf@toc=\write3
 \openout3 = `FinalReport-draft.toc'.
 
- [2]
+ [4]
 Chapter 1.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -175,40 +175,47 @@ Missing character: There is no ô in font cmr12!
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [2] <./content/PERTchart.jpg, id=24, 789.95125pt x 1190.4475pt>
+File: ./content/PERTchart.jpg Graphic file (type jpg)
+
+<use ./content/PERTchart.jpg>
+Package pdftex.def Info: ./content/PERTchart.jpg used on input line 76.
+(pdftex.def)             Requested size: 341.43306pt x 514.5345pt.
+
+<./content/PERTchart2.jpg, id=25, 787.94376pt x 831.105pt> [3]
+File: ./content/PERTchart2.jpg Graphic file (type jpg)
+
+<use ./content/PERTchart2.jpg>
+Package pdftex.def Info: ./content/PERTchart2.jpg used on input line 78.
+(pdftex.def)             Requested size: 341.43306pt x 360.13278pt.
+ [4 <./content/PERTchart.jpg>] [5 <./content/PERTchart2.jpg>]
+Chapter 2.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[6
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 105.
+
  (/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
- [2]
-Chapter 2.
-[3
-
-]
-Chapter 3.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 105.
+ [7]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[4
-
-] [5]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-
-./FinalReport-draft.tex:127: LaTeX Error: Something's wrong--perhaps a missing 
-\item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 	\end{itemize}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
 
 
 ./FinalReport-draft.tex:129: LaTeX Error: Something's wrong--perhaps a missing 
@@ -218,31 +225,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.129 		\begin{itemize}
-                       
+l.129 	\end{itemize}
+                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (6.65001pt too wide) in paragraph at lines 131--132
-[]\OT1/cmr/m/n/12 Calculate calo-ries ex-pen-di-ture us-ing an En-ergy Con-sump
--tion Model 
- []
-
-
-./FinalReport-draft.tex:144: LaTeX Error: Something's wrong--perhaps a missing 
+./FinalReport-draft.tex:131: LaTeX Error: Something's wrong--perhaps a missing 
 \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.144 		\begin{itemize}
+l.131 		\begin{itemize}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[6]
+
+Overfull \hbox (6.65001pt too wide) in paragraph at lines 133--134
+[]\OT1/cmr/m/n/12 Calculate calo-ries ex-pen-di-ture us-ing an En-ergy Con-sump
+-tion Model 
+ []
+
+
+./FinalReport-draft.tex:146: LaTeX Error: Something's wrong--perhaps a missing 
+\item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 		\begin{itemize}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -253,16 +273,16 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
 
-[7]
+[9]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ® in font cmr12!
@@ -279,12 +299,12 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ® in font cmr12!
 
-Overfull \hbox (11.58398pt too wide) in paragraph at lines 179--180
+Overfull \hbox (11.58398pt too wide) in paragraph at lines 181--182
 []\OT1/cmr/bx/n/12 Evaluation \OT1/cmr/m/n/12 stage will be con-cerned with an-
 swer-ing the ques-tions whether
  []
 
-[8]
+[10]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -292,102 +312,98 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-Overfull \hbox (21.24568pt too wide) in paragraph at lines 215--216
+Overfull \hbox (21.24568pt too wide) in paragraph at lines 217--218
 []\OT1/cmr/m/n/12 Organizing and clar-i-fy-ing what has been gath-ered from cus
 -tomer/users 
  []
 
 
-Overfull \hbox (1.13617pt too wide) in paragraph at lines 219--220
+Overfull \hbox (1.13617pt too wide) in paragraph at lines 221--222
 []\OT1/cmr/m/n/12 Negotiating pos-si-ble changes with cus-tomer/users and ad-vi
 ce them
  []
 
-[9]
+[11]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
- [10]
+ [12]
 
-./FinalReport-draft.tex:290: LaTeX Error: \begin{enumerate} on input line 255 e
+./FinalReport-draft.tex:292: LaTeX Error: \begin{enumerate} on input line 257 e
 nded by \end{enumarate}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.290 \end{enumarate}
+l.292 \end{enumarate}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 311--314
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 313--316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--314
+Underfull \hbox (badness 10000) in paragraph at lines 313--316
 
  []
 
-<./content/PERTchart.jpg, id=54, 789.95125pt x 1190.4475pt>
 File: ./content/PERTchart.jpg Graphic file (type jpg)
-
 <use ./content/PERTchart.jpg>
-Package pdftex.def Info: ./content/PERTchart.jpg used on input line 315.
+Package pdftex.def Info: ./content/PERTchart.jpg used on input line 317.
 (pdftex.def)             Requested size: 341.43306pt x 514.5345pt.
-
-<./content/PERTchart2.jpg, id=55, 787.94376pt x 831.105pt> [12]
+ [14]
 File: ./content/PERTchart2.jpg Graphic file (type jpg)
-
-<use ./content/PERTchart2.jpg>
-Package pdftex.def Info: ./content/PERTchart2.jpg used on input line 317.
+ <use ./content/PERTchart2.jpg>
+Package pdftex.def Info: ./content/PERTchart2.jpg used on input line 319.
 (pdftex.def)             Requested size: 341.43306pt x 360.13278pt.
- [13 <./content/PERTchart.jpg>] [14 <./content/PERTchart2.jpg>]
-Chapter 4.
-[15
-
-]
-Chapter 5.
-[16
-
-]
-Chapter 6.
+ [15] [16]
+Chapter 3.
 [17
 
 ]
-Chapter 7.
+Chapter 4.
+[18
+
+]
+Chapter 5.
+[19
+
+]
+Chapter 6.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--332
 
  []
-
-[18
-
-]
-Chapter 8.
-[19
-
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 339.
 
 [20
 
-] [21
+]
+Chapter 7.
+[21
+
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 341.
+
+[22
+
+] [23
 
 ]
 (/Users/vladh/Documents/02_Documents/3rd_year/Final_year_project/FinalReport/.t
@@ -395,21 +411,21 @@ expadtmp/FinalReport-draft.aux) )
 Here is how much of TeX's memory you used:
  1547 strings out of 493633
  23272 string characters out of 3143378
- 77594 words of memory out of 3000000
+ 78594 words of memory out of 3000000
  4842 multiletter control sequences out of 15000+200000
  9102 words of font info for 32 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 37i,6n,23p,777b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,6n,23p,2008b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb>
 Output written on /Users/vladh/Documents/02_Documents/3rd_year/Final_year_proje
-ct/FinalReport/.texpadtmp/FinalReport-draft.pdf (25 pages, 463572 bytes).
+ct/FinalReport/.texpadtmp/FinalReport-draft.pdf (27 pages, 467773 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

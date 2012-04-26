@@ -28,11 +28,12 @@ Student Name: Vladimir Hartmann \\Degree program: BSc Computer Science \\Depar
 \end{spacing}
 \thispagestyle{empty}
 
+% Statement of originality
+\section{Statement of Originality}
+This report is submitted as part requirement for the degree of Computer Science at the University of Sussex. It is the product of my own labour except where indicated in the text. The report may be freely copied and distributed provided the source is acknowledged.
 
-% Abstract
-\begin{abstract}
-  A brief introduction ...
-\end{abstract}
+% Summary
+\section{Summary}
 
 % Table of content
 \tableofcontents
@@ -42,26 +43,23 @@ Student Name: Vladimir Hartmann \\Degree program: BSc Computer Science \\Depar
 \clearpage
 \pagenumbering{arabic}
 \chapter{Introduction}
+Modern society is putting unsustainable demands on personal wellbeing as well as the wellbeing of the planet. Pervasive sedentary lifestyle has been creating many health conditions while excess in energy consumption has had adverse effects on our ecosystem. There is a clear connection between personal and planetary wellbeing and actions that help to improve our own health often have a positive effect on our environment. The aim of this project was to create a personal energy meter (PEM), which would measure caloric expenditure and carbon footprint of individual. Idea behind PEM is to have device that would be capable of providing information about a caloric cost and cost of the carbon dioxide of various activities a person is involved in during the day. By wide distribution of PEM people’s awareness could increase which would lead to healthier society and cleaner planet. Location data such as those provided by GPS can be utilised to address both issues. As it is most frequently collected piece of contextual data in computing, it can be applied to many healthcare applications. This technique offers a number of improvements over traditional methods, which involve carrying a dedicated accelerometer device.
 
-\section{Motivation}
-Modern society is putting unsustainable demands on personal wellbeing as well as the wellbeing of the planet. Pervasive sedentary lifestyle has been creating many health conditions while excess in energy consumption has had adverse effects on our ecosystem. There is a clear connection between personal and planetary wellbeing and actions that help to improve our own health often have a positive effect on our environment. Location data such as GPS tracking can be utilised to address both issues. As it is most frequently collected piece of contextual data in computing, it can be applied to many healthcare applications. This technique offers a number of improvements over traditional methods, which involve carrying a dedicated accelerometer device.
+\section{Background}
+On-going progress is being made by various universities and institutes to address the issue of personal energy expenditure monitoring. This is due to the fact that the global economy is not able to meet the minimum conditions for sustainability. The Rio Declaration of 1992 and the United Nations Millennium Development Goals have demonstrated that human demand for ecosystem goods and services exceed the biosphere's total capacity. A fundamental solution is to manage food, fibre and energy consumption and maintain or increase the productivity of natural and agricultural ecosystems. From the number of proposed solutions, the 'shrink and share' framework has gained increasing recognition. This solution emphasises an equal allocation of emission rights to each person on the Earth and has been established by European Parliament as a basic principle to reducing global emissions of carbon dioxide [2].  Simon Hay at University of Cambridge proposed a 'Global Personal Energy Meter' (PEM) device [1], which can record and apportion an individual's energy usage. Architecture of this PEM would consist of a global sensor network and devices such as smartphones would communicate with it and receive estimates of energy used by individual. Data from a 'world model' (recommended energy usage allocations) would be fed into PEM to estimates keep up-to-date.  Further research undertaken by Simon Hay, this time together with Stamatina Th. Rassia , Dr. Alastair Beresford and Dr. Nick V. Baker include 'Movement dynamics in office environment' [3] and 'Estimating personal energy expenditure with location data' [4]. The task of this research was to explore the relationship between indoor environments and physical activity by gathering location and physical activity data. Devices used in an experiment were Active Bat location tracking device and GTIM Actigraph. To estimate personal energy expenditure an energy consumption model had to calculate gravitational and kinetic energy.Tracking people’s movement has been known for some time now. Romans used odometer calibrated to steps, although technically not a step counter, the idea was similar. Leonardo Da Vinci designed a mechanical pedometer, which was used for civil and military purposes. Most of the movements tracking solution on the market today make use accelerometer, which is a device able to monitor any movement in X, Y and Z coordinates. This approach however requires wearing a special device, which might not me convenient. It is also not accurate in many cases (user can cheat by only moving the device in certain way to mimic the actual walking/running).Proposed approach in this project uses mainly GPS data to track users movement. This can be supported (with project extensions) by accelerometer data and data obtained from signals of the heartbeat. All three technologies combined can produce very accurate and reliable system.…. Needs re-write
 
-\section{Current systems}
-Tracking people’s movement has been known for some time now. Romans used odometer calibrated to steps, although technically not a step counter, the idea was similar. Leonardo Da Vinci designed a mechanical pedometer, which was used for civil and military purposes. Most of the movements tracking solution on the market today make use accelerometer, which is a device able to monitor any movement in X, Y and Z coordinates. This approach however requires wearing a special device, which might not me convenient. It is also not accurate in many cases (user can cheat by only moving the device in certain way to mimic the actual walking/running).Proposed approach in this project uses mainly GPS data to track users movement. This can be supported (with project extensions) by accelerometer data and data obtained from signals of the heartbeat. All three technologies combined can produce very accurate and reliable system.
 
-\section{About this project}
 
-\section{Aims and objectives}
-Aims:
-\begin{itemize}\item Estimate personal energy expenditure and provide healthy recommendations for personal and planetary wellbeing.
-\end{itemize}
-Objectives:
-\begin{enumerate}\item (primary) Design and develop the Personal Energy Meter (PEM), an iPhone application\item (primary) Design and develop an Interactive Dynamic Website\item (extension) Ensure that both systems are reliable and accurate\item (extension) Validated with real biomedical measurements\item (extension) Extended functionality for better user experience
-\end{enumerate}
-For details on objectives see Requirements Analysis (Project after negotiation) section
+\section{Professional Considerations}
+Code of ConductThe project raises the issue set out in section 1, subsection (a) of Code of Conduct. Implementation of Personal Energy Meter (PEM) requires use of the iPhone Location Services that gather location data of user. It must be assured that any storage or transfer of this data is secure and not leaked.PEM is in accordance (only if the system is used for commercial purposes) with section 1, subsections (c) and (d) of Code of Conduct, as the system will be distributed via the Apple’s App Store to which anybody can have access.Further issues may rise from the section 2, subsections (a) and (b) of Code of Conduct, if the systems developed would be used for commercial purposes. As part of my project is to undertake the challenge of learning new programming language and iPhone development, no full competence for these has been obtained yet. These issues have been taken into consideration however for future professional career.
+Code of Good PracticeAlthough about 70\% of the document is closely related to this project it will be an excellent guide to ensuring that it is done correctly with highest possible quality.Study of this document will be included as a milestone in this project.
 
-% Background
-\chapter{Background}
+\section{Planning}
+IntroductionAs the nature of the project requires learning new programming languages, frameworks and toolkits, project becomes challenging and therefore there might be unexpected changes. This might require backtracking and re-designing the system and therefore Scrum software development method was chosen. The Scrum is a general agile method with focus on managing iterative development. There are three phases in Scrum:This is very suitable method for software projects such as the final year project because of the limited time available and unpredictable forecast of the development process. Requirements of learning new programming languages, frameworks and toolkits make the project challenging and therefore there might be unexpected changes which might require to backtrack and re-design the system.
+
+\includegraphics[width=120mm]{/content/PERTchart.jpg}
+
+\includegraphics[width=120mm]{/content/PERTchart2.jpg}
 
 % Requirements
 \chapter{Requirements Analysis}

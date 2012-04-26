@@ -1,0 +1,64 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Background}{2}
+\contentsline {chapter}{\numberline {3}Professional Considerations}{4}
+\contentsline {chapter}{\numberline {4}Planning}{5}
+\contentsline {section}{\numberline {4.1}Project plan}{7}
+\contentsline {subsection}{\numberline {4.1.1}Project Outline}{7}
+\contentsline {subsection}{\numberline {4.1.2}Project Schedule}{7}
+\contentsline {subsection}{\numberline {4.1.3}Phase plan}{8}
+\contentsline {subsubsection}{General research}{8}
+\contentsline {subsubsection}{Requirements Analysis - phase plan}{8}
+\contentsline {subsubsection}{Design - phase plan}{9}
+\contentsline {subsubsection}{Implementation - phase plan}{9}
+\contentsline {subsubsection}{Evaluation - phase plan}{10}
+\contentsline {subsubsection}{Testing - phase plan}{11}
+\contentsline {subsection}{\numberline {4.1.4}Time estimates}{11}
+\contentsline {chapter}{\numberline {5}Requirements Analysis}{14}
+\contentsline {section}{\numberline {5.1}Requirements discovery}{14}
+\contentsline {subsection}{\numberline {5.1.1}Collected scenarios}{14}
+\contentsline {section}{\numberline {5.2}Requirements classification and \\ organization}{15}
+\contentsline {section}{\numberline {5.3}Requirements prioritization and \\ negotiation}{16}
+\contentsline {section}{\numberline {5.4}Requirements Specification}{17}
+\contentsline {subsection}{\numberline {5.4.1}User requirements definition}{18}
+\contentsline {subsection}{\numberline {5.4.2}System requirements specification}{20}
+\contentsline {subsubsection}{Functional requirements}{20}
+\contentsline {subsubsection}{Functional requirements}{22}
+\contentsline {subsubsection}{Non-functional requirements}{24}
+\contentsline {subsection}{\numberline {5.4.3}System models}{26}
+\contentsline {chapter}{\numberline {6}Design and Implementation}{29}
+\contentsline {section}{\numberline {6.1}Introduction}{29}
+\contentsline {section}{\numberline {6.2}Building a simple iPhone application}{31}
+\contentsline {section}{\numberline {6.3}Improving the simple iPhone application}{34}
+\contentsline {section}{\numberline {6.4}Utilizing Apple's Core Data and Core Location}{35}
+\contentsline {section}{\numberline {6.5}Building a multi-view iPhone application}{37}
+\contentsline {section}{\numberline {6.6}Connecting GUI to application's logic}{40}
+\contentsline {section}{\numberline {6.7}Creating a profile and logging in}{41}
+\contentsline {section}{\numberline {6.8}GPS tracking and creating a session}{43}
+\contentsline {section}{\numberline {6.9}Metabolic calculations}{45}
+\contentsline {subsection}{\numberline {6.9.1}ACSM MetCalcs}{47}
+\contentsline {subsubsection}{Exercise science prediction}{47}
+\contentsline {subsubsection}{Metabolic primer}{47}
+\contentsline {subsubsection}{Expression of energy use}{47}
+\contentsline {subsubsection}{ACSM Walking equation}{49}
+\contentsline {subsubsection}{Computing Grade}{49}
+\contentsline {subsubsection}{Limitations of the Walking Equation}{50}
+\contentsline {subsubsection}{ACSM Running equation}{51}
+\contentsline {subsubsection}{Limitations of the Running Equation}{51}
+\contentsline {subsubsection}{Determining the oxygen cost and caloric expenditure}{52}
+\contentsline {subsubsection}{ACSM MetCalcs Prediction Error and Limitations}{53}
+\contentsline {section}{\numberline {6.10}Implementing ACSM MetCalcs into PEM}{54}
+\contentsline {section}{\numberline {6.11}Carbon footprint calculations}{59}
+\contentsline {section}{\numberline {6.12}Implementing the PEMWEBAPP}{60}
+\contentsline {subsubsection}{Java EE}{61}
+\contentsline {subsubsection}{Enterprise Java Beans}{61}
+\contentsline {subsubsection}{Java Persistence and Entity Beans}{62}
+\contentsline {subsubsection}{JSF}{62}
+\contentsline {subsubsection}{Backing Bean}{63}
+\contentsline {subsubsection}{Expression Language}{64}
+\contentsline {subsubsection}{Dependency injection}{64}
+\contentsline {subsubsection}{Creating a REST web service}{64}
+\contentsline {subsubsection}{Securing the PEMWEBAPP}{65}
+\contentsline {subsubsection}{Completion of PEM and PEMWEBAPP}{66}
+\contentsline {subsubsection}{Finishing the PEM's GUI}{67}
+\contentsline {section}{\numberline {6.13}Maintenance and scalability}{67}
+\contentsline {chapter}{\numberline {7}Conclusion}{70}
