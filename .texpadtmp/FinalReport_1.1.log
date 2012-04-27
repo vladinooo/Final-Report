@@ -1,0 +1,1547 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 APR 2012 03:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**FinalReport_1.1.tex
+(./FinalReport_1.1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count90
+\rotFPtop=\skip43
+\rotFPbot=\skip44
+\rot@float@box=\box28
+\rot@mess@toks=\toks17
+)
+(/Users/vladh/Documents/02_Documents/3rd_year/Final_year_project/FinalReport/.t
+expadtmp/FinalReport_1.1.aux)
+\openout1 = `FinalReport_1.1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen105
+\scratchbox=\box29
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen106
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+
+[1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+[2
+
+]
+(/Users/vladh/Documents/02_Documents/3rd_year/Final_year_project/FinalReport/.t
+expadtmp/FinalReport_1.1.toc [3
+
+])
+\tf@toc=\write3
+\openout3 = `FinalReport_1.1.toc'.
+
+ [4]
+Chapter 1.
+[1
+
+
+]
+Chapter 2.
+[2
+
+] [3]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+[4
+
+] [5]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<./content/SCRUM.jpg, id=38, 1264.725pt x 493.845pt>
+File: ./content/SCRUM.jpg Graphic file (type jpg)
+ <use ./content/SCRUM.jpg>
+Package pdftex.def Info: ./content/SCRUM.jpg used on input line 101.
+(pdftex.def)             Requested size: 341.43306pt x 133.31732pt.
+
+[6
+
+ <./content/SCRUM.jpg>] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 132.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+ [8
+
+]
+Overfull \hbox (20.65819pt too wide) in paragraph at lines 183--184
+[]\OT1/cmr/m/n/12 Organising and clar-i-fy-ing what has been gath-ered from cus
+-tomer/users 
+ []
+
+
+Overfull \hbox (0.54868pt too wide) in paragraph at lines 187--188
+[]\OT1/cmr/m/n/12 Negotiating pos-si-ble changes with cus-tomer/users and ad-vi
+se them
+ []
+
+[9] [10]
+Overfull \hbox (2.1793pt too wide) in paragraph at lines 240--241
+[]\OT1/cmr/m/n/12 Interpreting ar-chi-tec-tural de-sign di-a-grams in Objective
+-C lan-guage
+ []
+
+
+./FinalReport_1.1.tex:259: LaTeX Error: \begin{enumerate} on input line 227 end
+ed by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.259 \end{enumarate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11] <./content/PERTchart.jpg, id=59, 789.95125pt x 1086.0575pt>
+File: ./content/PERTchart.jpg Graphic file (type jpg)
+
+<use ./content/PERTchart.jpg>
+Package pdftex.def Info: ./content/PERTchart.jpg used on input line 291.
+(pdftex.def)             Requested size: 341.43306pt x 469.41512pt.
+ [12]
+<./content/PERTchart2.jpg, id=63, 787.94376pt x 745.78625pt>
+File: ./content/PERTchart2.jpg Graphic file (type jpg)
+
+<use ./content/PERTchart2.jpg>
+Package pdftex.def Info: ./content/PERTchart2.jpg used on input line 297.
+(pdftex.def)             Requested size: 341.43306pt x 323.16263pt.
+ [13 <./content/PERTchart.jpg>] [14 <./content/PERTchart2.jpg>]
+Chapter 5.
+[15
+
+] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--391
+
+ []
+
+[18] <./content/PEM_use_case.jpg, id=83, 1653.17625pt x 1952.29375pt>
+File: ./content/PEM_use_case.jpg Graphic file (type jpg)
+
+<use ./content/PEM_use_case.jpg>
+Package pdftex.def Info: ./content/PEM_use_case.jpg used on input line 395.
+(pdftex.def)             Requested size: 341.43306pt x 403.20177pt.
+ [19]
+<./content/PEMWEBAPP_use_case.jpg, id=87, 1656.1875pt x 1301.86375pt>
+File: ./content/PEMWEBAPP_use_case.jpg Graphic file (type jpg)
+
+<use ./content/PEMWEBAPP_use_case.jpg>
+Package pdftex.def Info: ./content/PEMWEBAPP_use_case.jpg used on input line 40
+1.
+(pdftex.def)             Requested size: 341.43306pt x 268.37366pt.
+ [20 <./content/PEM_use_case.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Overfull \hbox (6.25008pt too wide) in paragraph at lines 409--436
+\OT1/cmr/m/n/12 This fea-ture shall up-load user's pro-file with all ses-sions 
+to the re-mote PEMWE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--436
+
+ []
+
+[21 <./content/PEMWEBAPP_use_case.jpg>] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--454
+
+ []
+
+[23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+ []
+
+
+Overfull \hbox (4.02531pt too wide) in paragraph at lines 522--523
+[]\OT1/cmr/m/n/12 PEM shall make use of the ACSM's Metabolic Cal-cu-la-tion Han
+d-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
+
+ []
+
+<./content/InitialObjectDiagram.jpg, id=112, 1896.08376pt x 2789.42125pt>
+File: ./content/InitialObjectDiagram.jpg Graphic file (type jpg)
+
+<use ./content/InitialObjectDiagram.jpg>
+Package pdftex.def Info: ./content/InitialObjectDiagram.jpg used on input line 
+541.
+(pdftex.def)             Requested size: 341.43306pt x 502.28699pt.
+ [27]
+<./content/SystemsObjectDiagram.jpg, id=116, 2275.50125pt x 1325.95375pt>
+File: ./content/SystemsObjectDiagram.jpg Graphic file (type jpg)
+
+<use ./content/SystemsObjectDiagram.jpg>
+Package pdftex.def Info: ./content/SystemsObjectDiagram.jpg used on input line 
+549.
+(pdftex.def)             Requested size: 569.05511pt x 331.58879pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 549--550
+[][] 
+ []
+
+[28 <./content/InitialObjectDiagram.jpg>] [29 <./content/SystemsObjectDiagram.j
+pg>]
+Chapter 6.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--565
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--565
+
+ []
+
+<./content/fitbit.jpg, id=123, 316.18124pt x 206.7725pt>
+File: ./content/fitbit.jpg Graphic file (type jpg)
+
+<use ./content/fitbit.jpg>
+Package pdftex.def Info: ./content/fitbit.jpg used on input line 568.
+(pdftex.def)             Requested size: 341.43306pt x 223.3015pt.
+ [30
+
+]
+<./content/bodymedia.jpg, id=127, 451.6875pt x 272.01625pt>
+File: ./content/bodymedia.jpg Graphic file (type jpg)
+
+<use ./content/bodymedia.jpg>
+Package pdftex.def Info: ./content/bodymedia.jpg used on input line 574.
+(pdftex.def)             Requested size: 341.43306pt x 205.63042pt.
+ [31 <./content/fitbit.jpg> <./content/bodymedia.jpg>] <./content/simpleiPhoneA
+pp.jpg, id=131, 399.4925pt x 738.76pt>
+File: ./content/simpleiPhoneApp.jpg Graphic file (type jpg)
+
+<use ./content/simpleiPhoneApp.jpg>
+Package pdftex.def Info: ./content/simpleiPhoneApp.jpg used on input line 584.
+(pdftex.def)             Requested size: 142.26378pt x 263.07889pt.
+ [32
+
+ <./content/simpleiPhoneApp.jpg>]
+<./content/iOSAppKeyObjects.jpg, id=136, 559.08875pt x 466.74374pt>
+File: ./content/iOSAppKeyObjects.jpg Graphic file (type jpg)
+
+<use ./content/iOSAppKeyObjects.jpg>
+Package pdftex.def Info: ./content/iOSAppKeyObjects.jpg used on input line 594.
+
+(pdftex.def)             Requested size: 341.43306pt x 285.04799pt.
+
+<./content/iPhoneApp-wiringAction.jpg, id=137, 742.775pt x 706.64pt>
+File: ./content/iPhoneApp-wiringAction.jpg Graphic file (type jpg)
+
+<use ./content/iPhoneApp-wiringAction.jpg>
+Package pdftex.def Info: ./content/iPhoneApp-wiringAction.jpg used on input lin
+e 601.
+(pdftex.def)             Requested size: 284.52756pt x 270.69325pt.
+ [33 <./content/iOSAppKeyObjects.jpg>] [34 <./content/iPhoneApp-wiringAction.jp
+g>]
+<./content/FirstGPSApp.jpg, id=144, 390.45876pt x 725.71124pt>
+File: ./content/FirstGPSApp.jpg Graphic file (type jpg)
+
+<use ./content/FirstGPSApp.jpg>
+Package pdftex.def Info: ./content/FirstGPSApp.jpg used on input line 614.
+(pdftex.def)             Requested size: 142.26378pt x 264.41177pt.
+ [35
+
+ <./content/FirstGPSApp.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 623--631
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--631
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--631
+
+ []
+
+[36
+
+] <./content/PEM-firstPrototype.jpg, id=151, 399.4925pt x 738.76pt>
+File: ./content/PEM-firstPrototype.jpg Graphic file (type jpg)
+
+<use ./content/PEM-firstPrototype.jpg>
+Package pdftex.def Info: ./content/PEM-firstPrototype.jpg used on input line 63
+5.
+(pdftex.def)             Requested size: 142.26378pt x 263.07889pt.
+ [37 <./content/PEM-firstPrototype.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
+
+ []
+
+[38
+
+] <./content/PEM-fifthSprintCycle.jpg, id=159, 803.0pt x 742.775pt>
+File: ./content/PEM-fifthSprintCycle.jpg Graphic file (type jpg)
+
+<use ./content/PEM-fifthSprintCycle.jpg>
+Package pdftex.def Info: ./content/PEM-fifthSprintCycle.jpg used on input line 
+653.
+(pdftex.def)             Requested size: 341.43306pt x 315.8282pt.
+ [39] [40 <./content/PEM-fifthSprintCycle.jpg>] <./content/PEM-database-Initial
+.jpg, id=166, 485.815pt x 185.69376pt>
+File: ./content/PEM-database-Initial.jpg Graphic file (type jpg)
+
+<use ./content/PEM-database-Initial.jpg>
+Package pdftex.def Info: ./content/PEM-database-Initial.jpg used on input line 
+666.
+(pdftex.def)             Requested size: 341.43306pt x 130.50609pt.
+ [41
+
+ <./content/PEM-database-Initial.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 677--679
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--679
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--679
+
+ []
+
+<./content/AppleCoreData.jpg, id=170, 366.36874pt x 395.4775pt>
+File: ./content/AppleCoreData.jpg Graphic file (type jpg)
+
+<use ./content/AppleCoreData.jpg>
+Package pdftex.def Info: ./content/AppleCoreData.jpg used on input line 683.
+(pdftex.def)             Requested size: 256.0748pt x 276.43408pt.
+ [42
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 688--691
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--698
+
+ []
+
+[43 <./content/AppleCoreData.jpg>] [44] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 705--706
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--715
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--715
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--718
+
+ []
+
+
+Overfull \hbox (58.68303pt too wide) in paragraph at lines 720--729
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--729
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--729
+
+ []
+
+[46
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
+
+ []
+
+<./content/KineticEnergy.jpg, id=188, 129.48375pt x 60.225pt>
+File: ./content/KineticEnergy.jpg Graphic file (type jpg)
+
+<use ./content/KineticEnergy.jpg>
+Package pdftex.def Info: ./content/KineticEnergy.jpg used on input line 739.
+(pdftex.def)             Requested size: 113.81102pt x 52.9375pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--748
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--748
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--760
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--760
+
+ []
+
+[47 <./content/KineticEnergy.jpg>] [48]
+Underfull \hbox (badness 10000) in paragraph at lines 766--769
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--778
+
+ []
+
+[49
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 799--800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--812
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 820--823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--831
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--831
+
+ []
+
+[51
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 834--835
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 834--835
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 839--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
+
+ []
+
+[53
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--872
+
+ []
+
+[54
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 876--879
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--879
+
+ []
+
+[55
+
+]
+Overfull \hbox (13.50572pt too wide) in paragraph at lines 882--882
+[]\OT1/cmr/bx/n/17.28 Implementing ACSM Met-Calcs into PEM 
+ []
+
+<./content/CalculatingVO2code.jpg, id=219, 656.4525pt x 234.8775pt>
+File: ./content/CalculatingVO2code.jpg Graphic file (type jpg)
+
+<use ./content/CalculatingVO2code.jpg>
+Package pdftex.def Info: ./content/CalculatingVO2code.jpg used on input line 88
+8.
+(pdftex.def)             Requested size: 341.43306pt x 122.16566pt.
+
+<./content/calculatingCaloriesCode.jpg, id=220, 531.9875pt x 158.5925pt>
+File: ./content/calculatingCaloriesCode.jpg Graphic file (type jpg)
+
+<use ./content/calculatingCaloriesCode.jpg>
+Package pdftex.def Info: ./content/calculatingCaloriesCode.jpg used on input li
+ne 895.
+(pdftex.def)             Requested size: 341.43306pt x 101.7868pt.
+ [56
+
+ <./content/CalculatingVO2code.jpg> <./content/calculatingCaloriesCode.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 900--902
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+
+ []
+
+<./content/calculateGradeCode.jpg, id=225, 483.8075pt x 110.4125pt>
+File: ./content/calculateGradeCode.jpg Graphic file (type jpg)
+
+<use ./content/calculateGradeCode.jpg>
+Package pdftex.def Info: ./content/calculateGradeCode.jpg used on input line 91
+4.
+(pdftex.def)             Requested size: 341.43306pt x 77.92336pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 919--924
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 919--924
+
+ []
+
+[57
+
+ <./content/calculateGradeCode.jpg>]
+<./content/XMLcode.jpg, id=229, 474.77374pt x 130.4875pt>
+File: ./content/XMLcode.jpg Graphic file (type jpg)
+
+<use ./content/XMLcode.jpg>
+Package pdftex.def Info: ./content/XMLcode.jpg used on input line 928.
+(pdftex.def)             Requested size: 341.43306pt x 93.8434pt.
+
+<./content/JSONfile.jpg, id=230, 359.3425pt x 258.9675pt>
+File: ./content/JSONfile.jpg Graphic file (type jpg)
+
+<use ./content/JSONfile.jpg>
+Package pdftex.def Info: ./content/JSONfile.jpg used on input line 938.
+(pdftex.def)             Requested size: 341.43306pt x 246.07698pt.
+ [58 <./content/XMLcode.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 943--944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--951
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 960--961
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 960--961
+
+ []
+
+[59 <./content/JSONfile.jpg>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--966
+
+ []
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 970--972
+
+ []
+
+<./content/CO2CalcsTrain.jpg, id=240, 622.325pt x 189.70876pt>
+File: ./content/CO2CalcsTrain.jpg Graphic file (type jpg)
+
+<use ./content/CO2CalcsTrain.jpg>
+Package pdftex.def Info: ./content/CO2CalcsTrain.jpg used on input line 976.
+(pdftex.def)             Requested size: 341.43306pt x 104.0825pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
+
+ []
+
+[61
+
+ <./content/CO2CalcsTrain.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 987--991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--991
+
+ []
+
+[62
+
+] [63] <./content/EntityBean.jpg, id=251, 402.50375pt x 377.41pt>
+File: ./content/EntityBean.jpg Graphic file (type jpg)
+
+<use ./content/EntityBean.jpg>
+Package pdftex.def Info: ./content/EntityBean.jpg used on input line 1005.
+(pdftex.def)             Requested size: 341.43306pt x 320.14351pt.
+ [64]
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1015
+
+ []
+
+[65 <./content/EntityBean.jpg>]
+<./content/JSFpageStats.jpg, id=258, 636.3775pt x 412.54124pt>
+File: ./content/JSFpageStats.jpg Graphic file (type jpg)
+
+<use ./content/JSFpageStats.jpg>
+Package pdftex.def Info: ./content/JSFpageStats.jpg used on input line 1019.
+(pdftex.def)             Requested size: 341.43306pt x 221.33372pt.
+
+<./content/BackingBean.jpg, id=259, 702.625pt x 405.515pt>
+File: ./content/BackingBean.jpg Graphic file (type jpg)
+
+<use ./content/BackingBean.jpg>
+Package pdftex.def Info: ./content/BackingBean.jpg used on input line 1031.
+(pdftex.def)             Requested size: 341.43306pt x 197.05817pt.
+ [66 <./content/JSFpageStats.jpg>]
+<./content/EL.jpg, id=263, 708.6475pt x 97.36375pt>
+File: ./content/EL.jpg Graphic file (type jpg)
+ <use ./content/EL.jpg>
+Package pdftex.def Info: ./content/EL.jpg used on input line 1043.
+(pdftex.def)             Requested size: 341.43306pt x 46.91084pt.
+
+[67 <./content/BackingBean.jpg> <./content/EL.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1055
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1055
+
+ []
+
+<./content/restWebService.jpg, id=267, 508.90125pt x 337.26pt>
+File: ./content/restWebService.jpg Graphic file (type jpg)
+
+<use ./content/restWebService.jpg>
+Package pdftex.def Info: ./content/restWebService.jpg used on input line 1059.
+(pdftex.def)             Requested size: 341.43306pt x 226.28207pt.
+ [68 <./content/restWebService.jpg>]
+<./content/PEMauthentication.jpg, id=272, 515.9275pt x 297.11pt>
+File: ./content/PEMauthentication.jpg Graphic file (type jpg)
+
+<use ./content/PEMauthentication.jpg>
+Package pdftex.def Info: ./content/PEMauthentication.jpg used on input line 107
+4.
+(pdftex.def)             Requested size: 341.43306pt x 196.62816pt.
+ [69]
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1087
+
+ []
+
+[70 <./content/PEMauthentication.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1097
+
+ []
+
+<./content/PEMfinished.jpg, id=279, 803.0pt x 742.775pt>
+File: ./content/PEMfinished.jpg Graphic file (type jpg)
+
+<use ./content/PEMfinished.jpg>
+Package pdftex.def Info: ./content/PEMfinished.jpg used on input line 1107.
+(pdftex.def)             Requested size: 341.43306pt x 315.8282pt.
+ [71] [72 <./content/PEMfinished.jpg>]
+<./content/PEMcontextDiagram.jpg, id=286, 456.70625pt x 243.91125pt>
+File: ./content/PEMcontextDiagram.jpg Graphic file (type jpg)
+
+<use ./content/PEMcontextDiagram.jpg>
+Package pdftex.def Info: ./content/PEMcontextDiagram.jpg used on input line 112
+2.
+(pdftex.def)             Requested size: 341.43306pt x 182.35237pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+
+ []
+
+<./content/MVC-withPackages.jpg, id=287, 1839.87375pt x 1255.69125pt>
+File: ./content/MVC-withPackages.jpg Graphic file (type jpg)
+
+<use ./content/MVC-withPackages.jpg>
+Package pdftex.def Info: ./content/MVC-withPackages.jpg used on input line 1133
+.
+(pdftex.def)             Requested size: 341.43306pt x 233.00818pt.
+ [73
+
+ <./content/PEMcontextDiagram.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1138--1139
+
+ []
+
+
+<./content/PEMWEBAPP-LayeredArchitectureWithPackages.jpg, id=291, 1986.42125pt 
+x 779.91376pt>
+File: ./content/PEMWEBAPP-LayeredArchitectureWithPackages.jpg Graphic file (typ
+e jpg)
+ <use ./content/PEMWEBAPP-LayeredArchitectureWithPackages.jpg>
+Package pdftex.def Info: ./content/PEMWEBAPP-LayeredArchitectureWithPackages.jp
+g used on input line 1143.
+(pdftex.def)             Requested size: 341.43306pt x 134.04735pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1148--1149
+
+ []
+
+<./content/client_server.jpg, id=292, 493.845pt x 290.08376pt>
+File: ./content/client_server.jpg Graphic file (type jpg)
+
+<use ./content/client_server.jpg>
+Package pdftex.def Info: ./content/client_server.jpg used on input line 1153.
+(pdftex.def)             Requested size: 341.43306pt x 200.55637pt.
+ [74 <./content/MVC-withPackages.jpg> <./content/PEMWEBAPP-LayeredArchitectureW
+ithPackages.jpg>]
+<./content/pemwebappArchitecture.jpg, id=297, 911.405pt x 543.02875pt>
+File: ./content/pemwebappArchitecture.jpg Graphic file (type jpg)
+
+<use ./content/pemwebappArchitecture.jpg>
+Package pdftex.def Info: ./content/pemwebappArchitecture.jpg used on input line
+ 1164.
+(pdftex.def)             Requested size: 569.05511pt x 339.06068pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1164--1165
+[][] 
+ []
+
+[75 <./content/client_server.jpg>] [76 <./content/pemwebappArchitecture.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
+
+ []
+
+<./content/PEM-trackingClassDiagram.jpg, id=304, 1035.87pt x 589.20125pt>
+File: ./content/PEM-trackingClassDiagram.jpg Graphic file (type jpg)
+
+<use ./content/PEM-trackingClassDiagram.jpg>
+Package pdftex.def Info: ./content/PEM-trackingClassDiagram.jpg used on input l
+ine 1184.
+(pdftex.def)             Requested size: 569.05511pt x 323.69307pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1184--1185
+[][] 
+ []
+
+[77
+
+] <./content/PEM-createProfileCD.jpg, id=308, 980.66376pt x 527.9725pt>
+File: ./content/PEM-createProfileCD.jpg Graphic file (type jpg)
+
+<use ./content/PEM-createProfileCD.jpg>
+Package pdftex.def Info: ./content/PEM-createProfileCD.jpg used on input line 1
+195.
+(pdftex.def)             Requested size: 569.05511pt x 306.37732pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1195--1196
+[][] 
+ []
+
+[78 <./content/PEM-trackingClassDiagram.jpg>]
+<./content/PEM-TransferDataCD.jpg, id=312, 1021.8175pt x 560.0925pt>
+File: ./content/PEM-TransferDataCD.jpg Graphic file (type jpg)
+
+<use ./content/PEM-TransferDataCD.jpg>
+Package pdftex.def Info: ./content/PEM-TransferDataCD.jpg used on input line 12
+06.
+(pdftex.def)             Requested size: 569.05511pt x 311.91475pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1206--1207
+[][] 
+ []
+
+[79 <./content/PEM-createProfileCD.jpg>]
+<./content/PEM-stateDiagram.jpg, id=316, 948.54375pt x 587.19376pt>
+File: ./content/PEM-stateDiagram.jpg Graphic file (type jpg)
+
+<use ./content/PEM-stateDiagram.jpg>
+Package pdftex.def Info: ./content/PEM-stateDiagram.jpg used on input line 1217
+.
+(pdftex.def)             Requested size: 569.05511pt x 352.28313pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1217--1218
+[][] 
+ []
+
+[80 <./content/PEM-TransferDataCD.jpg>]
+<./content/PEMWEBAPP-classDiagram.jpg, id=321, 831.105pt x 661.47125pt>
+File: ./content/PEMWEBAPP-classDiagram.jpg Graphic file (type jpg)
+
+<use ./content/PEMWEBAPP-classDiagram.jpg>
+Package pdftex.def Info: ./content/PEMWEBAPP-classDiagram.jpg used on input lin
+e 1228.
+(pdftex.def)             Requested size: 569.05511pt x 452.9234pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1228--1229
+[][] 
+ []
+
+
+Overfull \hbox (62.9234pt too wide) in paragraph at lines 1230--1232
+ [][] 
+ []
+
+[81 <./content/PEM-stateDiagram.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
+
+ []
+
+[82 <./content/PEMWEBAPP-classDiagram.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1254
+
+ []
+
+[83]
+Chapter 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+
+ []
+
+<./content/PEM-evaluation.jpg, id=331, 1243.64626pt x 648.4225pt>
+File: ./content/PEM-evaluation.jpg Graphic file (type jpg)
+
+<use ./content/PEM-evaluation.jpg>
+Package pdftex.def Info: ./content/PEM-evaluation.jpg used on input line 1265.
+(pdftex.def)             Requested size: 569.05511pt x 296.6949pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 1265--1266
+[][] 
+ []
+
+[84
+
+
+] [85 <./content/PEM-evaluation.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1278
+
+ []
+
+<./content/CaloriesPerMin.jpg, id=338, 1010.77625pt x 629.35126pt>
+File: ./content/CaloriesPerMin.jpg Graphic file (type jpg)
+
+<use ./content/CaloriesPerMin.jpg>
+Package pdftex.def Info: ./content/CaloriesPerMin.jpg used on input line 1282.
+(pdftex.def)             Requested size: 341.43306pt x 212.59375pt.
+ [86
+
+ <./content/CaloriesPerMin.jpg>]
+Chapter 8.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1292
+
+ []
+
+[87
+
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1297--1299
+
+ []
+
+[88]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 1302.
+
+[89
+
+] [90
+
+]
+(/Users/vladh/Documents/02_Documents/3rd_year/Final_year_project/FinalReport/.t
+expadtmp/FinalReport_1.1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1936 strings out of 493633
+ 32141 string characters out of 3143378
+ 85835 words of memory out of 3000000
+ 5177 multiletter control sequences out of 15000+200000
+ 9756 words of font info for 34 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 38i,8n,23p,2160b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmss12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti12.pfb>
+Output written on /Users/vladh/Documents/02_Documents/3rd_year/Final_year_proje
+ct/FinalReport/.texpadtmp/FinalReport_1.1.pdf (95 pages, 10997976 bytes).
+PDF statistics:
+ 386 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+
