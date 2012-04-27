@@ -1,76 +1,80 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Background}{2}
-\contentsline {chapter}{\numberline {3}Professional Considerations}{4}
-\contentsline {section}{\numberline {3.1}Code of Conduct}{4}
-\contentsline {section}{\numberline {3.2}Code of Good Practice}{5}
-\contentsline {chapter}{\numberline {4}Planning}{6}
-\contentsline {subsubsection}{1. Outline planning and architectural design}{6}
-\contentsline {subsubsection}{2. Sprint cycle}{7}
-\contentsline {subsubsection}{3. Project closure}{7}
-\contentsline {section}{\numberline {4.1}Project plan}{8}
-\contentsline {subsection}{\numberline {4.1.1}Project Outline}{8}
-\contentsline {subsection}{\numberline {4.1.2}Project Schedule}{8}
-\contentsline {subsection}{\numberline {4.1.3}Phase plan}{9}
-\contentsline {subsubsection}{General research}{9}
-\contentsline {subsubsection}{Requirements Analysis - phase plan}{9}
-\contentsline {subsubsection}{Design - phase plan}{10}
-\contentsline {subsubsection}{Implementation - phase plan}{10}
-\contentsline {subsubsection}{Evaluation - phase plan}{11}
-\contentsline {subsubsection}{Testing - phase plan}{12}
-\contentsline {subsection}{\numberline {4.1.4}Time estimates}{12}
-\contentsline {chapter}{\numberline {5}Requirements Analysis}{15}
-\contentsline {section}{\numberline {5.1}Requirements discovery}{15}
-\contentsline {subsection}{\numberline {5.1.1}Collected scenarios}{15}
-\contentsline {section}{\numberline {5.2}Requirements classification and \\ organisation}{16}
-\contentsline {section}{\numberline {5.3}Requirements prioritisation and \\ negotiation}{17}
-\contentsline {section}{\numberline {5.4}Requirements Specification}{18}
-\contentsline {subsection}{\numberline {5.4.1}User requirements definition}{19}
-\contentsline {subsection}{\numberline {5.4.2}System requirements specification}{21}
-\contentsline {subsubsection}{Functional requirements}{21}
-\contentsline {subsubsection}{Functional requirements}{23}
-\contentsline {subsubsection}{Non-functional requirements}{25}
-\contentsline {subsection}{\numberline {5.4.3}System models}{27}
-\contentsline {chapter}{\numberline {6}Design and Implementation}{30}
-\contentsline {section}{\numberline {6.1}Introduction}{30}
-\contentsline {section}{\numberline {6.2}Building a simple iPhone application}{32}
-\contentsline {section}{\numberline {6.3}Improving the simple iPhone application}{35}
-\contentsline {section}{\numberline {6.4}Utilizing Apple's Core Data and Core Location}{36}
-\contentsline {section}{\numberline {6.5}Building a multi-view iPhone application}{38}
-\contentsline {section}{\numberline {6.6}Connecting GUI to the application's logic}{41}
-\contentsline {section}{\numberline {6.7}Creating a profile and logging in}{42}
-\contentsline {section}{\numberline {6.8}GPS tracking and creating a session}{44}
-\contentsline {section}{\numberline {6.9}Metabolic calculations}{46}
-\contentsline {subsection}{\numberline {6.9.1}ACSM MetCalcs}{49}
-\contentsline {subsubsection}{Exercise science prediction}{49}
-\contentsline {subsubsection}{Metabolic primer}{49}
-\contentsline {subsubsection}{Expression of energy use}{49}
-\contentsline {subsubsection}{ACSM Walking equation}{51}
-\contentsline {subsubsection}{Computing Grade}{51}
-\contentsline {subsubsection}{Limitations of the Walking Equation}{52}
-\contentsline {subsubsection}{ACSM Running equation}{53}
-\contentsline {subsubsection}{Limitations of the Running Equation}{53}
-\contentsline {subsubsection}{Determining the oxygen cost and caloric expenditure}{54}
-\contentsline {subsubsection}{ACSM MetCalcs Prediction Error and Limitations}{55}
-\contentsline {section}{\numberline {6.10}Implementing ACSM MetCalcs into PEM}{56}
-\contentsline {section}{\numberline {6.11}Carbon footprint calculations}{61}
-\contentsline {section}{\numberline {6.12}Implementing the PEMWEBAPP}{62}
-\contentsline {subsubsection}{Java EE}{63}
-\contentsline {subsubsection}{Enterprise Java Beans}{64}
-\contentsline {subsubsection}{Java Persistence and Entity Beans}{64}
-\contentsline {subsubsection}{JSF}{65}
-\contentsline {subsubsection}{Backing Bean}{66}
-\contentsline {subsubsection}{Expression Language}{67}
-\contentsline {subsubsection}{Dependency injection}{67}
-\contentsline {subsubsection}{Creating a REST web service}{68}
-\contentsline {subsubsection}{Securing the PEMWEBAPP}{69}
-\contentsline {subsubsection}{Completion of PEM and PEMWEBAPP}{70}
-\contentsline {subsubsection}{Finishing the PEM's GUI}{71}
-\contentsline {section}{\numberline {6.13}Maintenance and scalability}{73}
-\contentsline {subsection}{\numberline {6.13.1}Understanding and defining the context}{73}
-\contentsline {subsection}{\numberline {6.13.2}Designing systems architecture}{73}
-\contentsline {subsection}{\numberline {6.13.3}Identifying the principal objects in the system}{77}
-\contentsline {subsection}{\numberline {6.13.4}Developing design models}{77}
-\contentsline {subsection}{\numberline {6.13.5}Configuration management}{83}
-\contentsline {chapter}{\numberline {7}Evaluation and Testing}{84}
-\contentsline {chapter}{\numberline {8}Conclusion}{87}
-\contentsline {section}{\numberline {8.1}Future work}{88}
+\contentsline {section}{\numberline {1.1}Location data and GPS}{1}
+\contentsline {section}{\numberline {1.2}Energy expenditure by human body}{1}
+\contentsline {section}{\numberline {1.3}Energy expenditure by human}{2}
+\contentsline {chapter}{\numberline {2}Background}{3}
+\contentsline {chapter}{\numberline {3}Professional Considerations}{5}
+\contentsline {section}{\numberline {3.1}Code of Conduct}{5}
+\contentsline {section}{\numberline {3.2}Code of Good Practice}{6}
+\contentsline {chapter}{\numberline {4}Planning}{7}
+\contentsline {subsubsection}{1. Outline planning and architectural design}{8}
+\contentsline {subsubsection}{2. Sprint cycle}{8}
+\contentsline {subsubsection}{3. Project closure}{8}
+\contentsline {section}{\numberline {4.1}Project plan}{9}
+\contentsline {subsection}{\numberline {4.1.1}Project Outline}{9}
+\contentsline {subsection}{\numberline {4.1.2}Project Schedule}{9}
+\contentsline {subsection}{\numberline {4.1.3}Phase plan}{10}
+\contentsline {subsubsection}{General research}{10}
+\contentsline {subsubsection}{Requirements Analysis - phase plan}{10}
+\contentsline {subsubsection}{Design - phase plan}{11}
+\contentsline {subsubsection}{Implementation - phase plan}{11}
+\contentsline {subsubsection}{Evaluation - phase plan}{12}
+\contentsline {subsubsection}{Testing - phase plan}{13}
+\contentsline {subsection}{\numberline {4.1.4}Time estimates}{13}
+\contentsline {chapter}{\numberline {5}Requirements Analysis}{16}
+\contentsline {section}{\numberline {5.1}Requirements discovery}{16}
+\contentsline {subsection}{\numberline {5.1.1}Collected scenarios}{16}
+\contentsline {section}{\numberline {5.2}Requirements classification and \\ organisation}{17}
+\contentsline {section}{\numberline {5.3}Requirements prioritisation and \\ negotiation}{18}
+\contentsline {section}{\numberline {5.4}Requirements Specification}{19}
+\contentsline {subsection}{\numberline {5.4.1}User requirements definition}{20}
+\contentsline {subsection}{\numberline {5.4.2}System requirements specification}{22}
+\contentsline {subsubsection}{Functional requirements}{22}
+\contentsline {subsubsection}{Functional requirements}{24}
+\contentsline {subsubsection}{Non-functional requirements}{26}
+\contentsline {subsection}{\numberline {5.4.3}System models}{28}
+\contentsline {chapter}{\numberline {6}Design and Implementation}{31}
+\contentsline {section}{\numberline {6.1}Introduction}{31}
+\contentsline {section}{\numberline {6.2}Building a simple iPhone application}{33}
+\contentsline {section}{\numberline {6.3}Improving the simple iPhone application}{36}
+\contentsline {section}{\numberline {6.4}Utilizing Apple's Core Data and Core Location}{37}
+\contentsline {section}{\numberline {6.5}Building a multi-view iPhone application}{39}
+\contentsline {section}{\numberline {6.6}Connecting GUI to the application's logic}{42}
+\contentsline {section}{\numberline {6.7}Creating a profile and logging in}{43}
+\contentsline {section}{\numberline {6.8}GPS tracking and creating a session}{45}
+\contentsline {section}{\numberline {6.9}Metabolic calculations}{47}
+\contentsline {subsection}{\numberline {6.9.1}ACSM MetCalcs}{50}
+\contentsline {subsubsection}{Exercise science prediction}{50}
+\contentsline {subsubsection}{Metabolic primer}{50}
+\contentsline {subsubsection}{Expression of energy use}{50}
+\contentsline {subsubsection}{ACSM Walking equation}{52}
+\contentsline {subsubsection}{Computing Grade}{52}
+\contentsline {subsubsection}{Limitations of the Walking Equation}{53}
+\contentsline {subsubsection}{ACSM Running equation}{54}
+\contentsline {subsubsection}{Limitations of the Running Equation}{54}
+\contentsline {subsubsection}{Determining the oxygen cost and caloric expenditure}{55}
+\contentsline {subsubsection}{ACSM MetCalcs Prediction Error and Limitations}{56}
+\contentsline {section}{\numberline {6.10}Implementing ACSM MetCalcs into PEM}{57}
+\contentsline {section}{\numberline {6.11}Carbon footprint calculations}{62}
+\contentsline {section}{\numberline {6.12}Implementing the PEMWEBAPP}{63}
+\contentsline {subsubsection}{Java EE}{64}
+\contentsline {subsubsection}{Enterprise Java Beans}{65}
+\contentsline {subsubsection}{Java Persistence and Entity Beans}{65}
+\contentsline {subsubsection}{JSF}{66}
+\contentsline {subsubsection}{Backing Bean}{67}
+\contentsline {subsubsection}{Expression Language}{68}
+\contentsline {subsubsection}{Dependency injection}{68}
+\contentsline {subsubsection}{Creating a REST web service}{69}
+\contentsline {subsubsection}{Securing the PEMWEBAPP}{70}
+\contentsline {subsubsection}{Completion of PEM and PEMWEBAPP}{71}
+\contentsline {subsubsection}{Finishing the PEM's GUI}{72}
+\contentsline {section}{\numberline {6.13}Maintenance and scalability}{74}
+\contentsline {subsection}{\numberline {6.13.1}Understanding and defining the context}{74}
+\contentsline {subsection}{\numberline {6.13.2}Designing systems architecture}{74}
+\contentsline {subsection}{\numberline {6.13.3}Identifying the principal objects in the system}{78}
+\contentsline {subsection}{\numberline {6.13.4}Developing design models}{78}
+\contentsline {subsection}{\numberline {6.13.5}Configuration management}{84}
+\contentsline {chapter}{\numberline {7}Evaluation and Testing}{85}
+\contentsline {chapter}{\numberline {8}Conclusion}{88}
+\contentsline {section}{\numberline {8.1}Future work}{89}
+\contentsline {subsubsection}{Work log}{94}
